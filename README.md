@@ -1,11 +1,11 @@
-# Projeto de Rede - Rede Interna
+# Network Design - Internal Network
 
-Este projeto foi desenvolvido no Cisco Packet Tracer para simular uma pequena rede interna.
+This project was developed in Cisco Packet Tracer to simulate a small internal network.
 
-## O que foi configurado:
-* Endereçamento IP das máquinas.
-* Testes de conectividade utilizando o comando `ping`.
-* endereçamento de uma impressora 
+## What was configured:
+* IP addresses of the devices.
+* Connectivity tests using the `ping` command.
+* Printer configuration
 
-## Como visualizar:
-Para abrir este projeto, faça o download do arquivo `.pkt` e abra no software Cisco Packet Tracer.
+## How to view:
+To open this project, download the `.pkt` file and open it in Cisco Packet Tracer.
